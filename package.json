@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/biolab-unige/xtens-fs.git"
+    "url": "https://github.com/xtens-suite/xtens-fs.git"
   },
   "keywords": [
     "file",
@@ -19,9 +19,9 @@
   "author": "Massimiliano Izzo",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/biolab-unige/xtens-fs/issues"
+    "url": "https://github.com/xtens-suite/xtens-fs/issues"
   },
-  "homepage": "https://github.com/biolab-unige/xtens-fs",
+  "homepage": "https://github.com/xtens-suite/xtens-fs",
   "dependencies": {
     "bluebird": "^2.4.2",
     "fs-extra": "^0.24.0",
